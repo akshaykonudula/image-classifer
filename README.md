@@ -24,11 +24,14 @@ This project demonstrates how image data can be preprocessed, trained, and evalu
   python3 -m venv image_env
   source image_env/bin/activate   # Linux / Mac
   image_env\Scripts\activate      # Windows
+  
 3.Install dependencies:
   pip install --upgrade pip setuptools wheel
   pip install tensorflow==2.16.2 matplotlib scikit-learn numpy pillow
+
 4.Run the program:
   python alexatask.py
+
 5.Check the outputs:
 
   accuracy_loss.png → shows accuracy and loss graphs
