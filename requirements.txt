@@ -1,0 +1,5 @@
+tensorflow==2.16.2
+matplotlib
+scikit-learn
+numpy
+pillow
